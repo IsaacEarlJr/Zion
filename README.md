@@ -119,9 +119,9 @@ Environmental Impact Assessment (EIA) and regulatory review requirements.
 
 **Supporting Documentation:**
 
-![[Pasted image 20251126120754.png]]
-![[Pasted image 20251126121351.png]]
-(Top: USGS Wetland Mapper; Bottom: South River Watershed Alliance)
+![USGS Wetland Mapper](Pasted%20image%2020251126120754.png)
+![South River Watershed Alliance](Pasted%20image%2020251126121351.png)
+*Top: USGS Wetland Mapper; Bottom: South River Watershed Alliance*
 
 -----
 **STATEMENT**
