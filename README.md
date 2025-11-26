@@ -129,8 +129,9 @@ Environmental Impact Assessment (EIA) and regulatory review requirements.
 - Starting looking at protecting the land as a system and humans may be enriched (de facto) 
 	- Water Evaporation [[Atmospheric Impacts]] - Heat loss to the atmosphere 
 	- Water Discharge: [[Blowdown]] - Draining of concentrated "grey/black" water
---Rights of Rivers 
------------
+--Rights of Rivers
+ 
+---------------
 **REFFERENCES**
 
 1    ArcGIS StoryMaps. (n.d.). *Data Centers in Georgia*. Retrieved from (November, 25) https://storymaps.arcgis.com/stories/b0b465bb91fa40c69aad0354d97e0a92
